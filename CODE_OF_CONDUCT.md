@@ -1,4 +1,4 @@
-# Contributor Code of Conduct
+# Dirigeant's Code of Conduct
 
 * Contributions are weighed on merit alone. We do not care who you are, or what background you come from, nor will we ask you.
 
