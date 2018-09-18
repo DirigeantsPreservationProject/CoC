@@ -19,3 +19,5 @@
 * Participation in this project and/or community indicate agreement to this code of conduct.
 
 * Failure to adhere to this code of conduct will result in loss of status, seniority, and/or access to the project/community.
+
+* This code of conduct is subject to changes at any time and without any notice. While it is your responsibility to periodically refresh yourself, warnings and reminders will precede punitive actions when appropriate.
